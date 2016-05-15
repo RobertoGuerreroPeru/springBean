@@ -7,7 +7,7 @@ import pe.rguerrero.exception.AventuraFailedException;
 
 /**
  * @author Roberto Guerrero
- *
+ * 
  */
 public class AventuraImpl implements Aventura {
 

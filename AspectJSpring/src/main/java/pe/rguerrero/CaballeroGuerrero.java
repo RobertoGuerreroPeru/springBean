@@ -11,9 +11,6 @@ import pe.rguerrero.exception.AventuraFailedException;
  */
 public class CaballeroGuerrero implements Caballero {
 
-	/* (non-Javadoc)
-	 * @see pe.rguerrero.Caballero#aventura()
-	 */
 	private String nombre;
 	private Aventura aventura;
 	
