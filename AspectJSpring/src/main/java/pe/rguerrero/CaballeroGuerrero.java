@@ -10,6 +10,7 @@ import pe.rguerrero.exception.AventuraFailedException;
  *
  */
 public class CaballeroGuerrero implements Caballero {
+	
 
 	private String nombre;
 	private Aventura aventura;
